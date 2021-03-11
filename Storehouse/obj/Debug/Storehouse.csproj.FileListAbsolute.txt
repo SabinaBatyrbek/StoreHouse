@@ -1,0 +1,7 @@
+C:\Users\Сабина\Documents\GitHub\testapp\Storehouse\bin\Debug\Storehouse.exe.config
+C:\Users\Сабина\Documents\GitHub\testapp\Storehouse\bin\Debug\Storehouse.exe
+C:\Users\Сабина\Documents\GitHub\testapp\Storehouse\bin\Debug\Storehouse.pdb
+C:\Users\Сабина\Documents\GitHub\testapp\Storehouse\obj\Debug\Storehouse.csprojAssemblyReference.cache
+C:\Users\Сабина\Documents\GitHub\testapp\Storehouse\obj\Debug\Storehouse.csproj.CoreCompileInputs.cache
+C:\Users\Сабина\Documents\GitHub\testapp\Storehouse\obj\Debug\Storehouse.exe
+C:\Users\Сабина\Documents\GitHub\testapp\Storehouse\obj\Debug\Storehouse.pdb

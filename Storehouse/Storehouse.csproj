@@ -43,8 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Emp\Director.cs" />
+    <Compile Include="Emp\Employee.cs" />
+    <Compile Include="Emp\Worker.cs" />
+    <Compile Include="IAccount.cs" />
+    <Compile Include="IProduct.cs" />
+    <Compile Include="IStore.cs" />
+    <Compile Include="Emp\Manage.cs" />
+    <Compile Include="Pt\Bulk.cs" />
+    <Compile Include="Pt\Fluid.cs" />
+    <Compile Include="Pt\Goborite.cs" />
+    <Compile Include="Pt\Piece-goods.cs" />
+    <Compile Include="Pt\Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search.cs" />
     <Compile Include="Store.cs" />
   </ItemGroup>
   <ItemGroup>
